@@ -1,2 +1,2 @@
 ##Shell-Scripts
-Designed specifically to automate & simplify webMethods Integration Server Monitoring.
+Designed specifically to automate & simplify webMethods(EAI tool) Integration Server Monitoring.
