@@ -1,1 +1,3 @@
-# Shell-Scripts
+####Shell-Scripts
+This script was written to comare the changes made in two differnet versions of the same program. This was to ease the burden of developers in finding the difference if the two different versions were created by two different developers. 
+While runnning the script it will ask for the the package names with versions. As soon as the script runs it will generate a text file which contains the difference in the two versions with line numbers.As i was working for webMethods Production Support,this was created specifially for webMethods packages and to comapare the difference in the flow.xml files.
